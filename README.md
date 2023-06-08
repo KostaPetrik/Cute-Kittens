@@ -5,4 +5,4 @@
 - HTML
 - CSS
 ---
-link:[link to project](https://)
+link:[link to project](https://kostapetrik.github.io/Cute-Kittens/)
